@@ -97,16 +97,6 @@ The used_pipeline.png image visually represents the unified data flow connecting
 
 ---
 
-## Steps to Run
-
-1. Upload all files into your Databricks workspace.
-2. Ensure the ott_reviews.csv dataset is accessible at /Volumes/workspace/default/dataset/ott_reviews.csv.
-3. Open the notebooks one by one in the given order.
-4. Execute each notebook to generate outputs inside the outputs folder.
-5. Review results and insights in the generated CSV files.
-
----
-
 ## Summary of Workflows
 
 The pipeline starts with data ingestion and cleaning.
