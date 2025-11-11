@@ -25,6 +25,7 @@ ott_reviews.csv
 Presentation.pptx
 
 ### notebooks
+
 1_Predictive_Churn_Model_MLlib.ipynb
 2_Subscription_Analysis_SQL.ipynb
 3_RealTime_Retention_Offers_Streaming.ipynb
@@ -32,6 +33,7 @@ Presentation.pptx
 5_Customer_Influence_Mapping_Graph.ipynb
 
 ### outputs
+
 1_ott_churn_predictions.csv
 2_ott_subscription_analysis_export.csv
 3_ott_retention_offers_export.csv
@@ -39,6 +41,7 @@ Presentation.pptx
 5_ott_influence_graph_export.csv
 
 ### pipelines
+
 Master_BigData_Pipeline.txt
 used_pipeline.png
 
@@ -66,6 +69,7 @@ Documentation
 The Presentation.pptx file explains the project objectives, methodology, implementation, and insights. It is used during the final viva and demonstration.
 
 ### Notebooks
+
 1_Predictive_Churn_Model_MLlib.ipynb – Builds a logistic regression model to predict user churn.
 2_Subscription_Analysis_SQL.ipynb – Analyzes subscription trends and churn rate using Spark SQL.
 3_RealTime_Retention_Offers_Streaming.ipynb – Triggers retention offers for at-risk users through Spark Streaming.
