@@ -25,6 +25,7 @@ documentation
 Presentation.pptx
 
 notebooks
+
 1_Predictive_Churn_Model_MLlib.ipynb
 
 2_Subscription_Analysis_SQL.ipynb
@@ -36,10 +37,15 @@ notebooks
 5_Customer_Influence_Mapping_Graph.ipynb
 
 outputs
+
 1_ott_churn_predictions.csv
+
 2_ott_subscription_analysis_export.csv
+
 3_ott_retention_offers_export.csv
+
 4_chat_quality_export.csv
+
 5_ott_influence_graph_export.csv
 
 pipelines
