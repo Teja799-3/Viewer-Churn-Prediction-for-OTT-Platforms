@@ -18,37 +18,27 @@ All modules are implemented on Databricks Free Edition using Apache Spark Core, 
 
 ## Project Structure
 
-dataset
+### dataset
 ott_reviews.csv
 
-documentation
+### documentation
 Presentation.pptx
 
-notebooks
-
+### notebooks
 1_Predictive_Churn_Model_MLlib.ipynb
-
 2_Subscription_Analysis_SQL.ipynb
-
 3_RealTime_Retention_Offers_Streaming.ipynb
-
 4_Chat_Quality_Monitoring.ipynb
-
 5_Customer_Influence_Mapping_Graph.ipynb
 
-outputs
-
+### outputs
 1_ott_churn_predictions.csv
-
 2_ott_subscription_analysis_export.csv
-
 3_ott_retention_offers_export.csv
-
 4_chat_quality_export.csv
-
 5_ott_influence_graph_export.csv
 
-pipelines
+### pipelines
 Master_BigData_Pipeline.txt
 used_pipeline.png
 
@@ -75,8 +65,7 @@ The ott_reviews.csv file contains real OTT app reviews with columns such as user
 Documentation
 The Presentation.pptx file explains the project objectives, methodology, implementation, and insights. It is used during the final viva and demonstration.
 
-Notebooks
-
+### Notebooks
 1_Predictive_Churn_Model_MLlib.ipynb – Builds a logistic regression model to predict user churn.
 2_Subscription_Analysis_SQL.ipynb – Analyzes subscription trends and churn rate using Spark SQL.
 3_RealTime_Retention_Offers_Streaming.ipynb – Triggers retention offers for at-risk users through Spark Streaming.
