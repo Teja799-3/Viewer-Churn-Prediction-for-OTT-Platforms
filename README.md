@@ -76,6 +76,7 @@ Documentation
 The Presentation.pptx file explains the project objectives, methodology, implementation, and insights. It is used during the final viva and demonstration.
 
 Notebooks
+
 1_Predictive_Churn_Model_MLlib.ipynb – Builds a logistic regression model to predict user churn.
 2_Subscription_Analysis_SQL.ipynb – Analyzes subscription trends and churn rate using Spark SQL.
 3_RealTime_Retention_Offers_Streaming.ipynb – Triggers retention offers for at-risk users through Spark Streaming.
