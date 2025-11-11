@@ -26,9 +26,13 @@ Presentation.pptx
 
 notebooks
 1_Predictive_Churn_Model_MLlib.ipynb
+
 2_Subscription_Analysis_SQL.ipynb
+
 3_RealTime_Retention_Offers_Streaming.ipynb
+
 4_Chat_Quality_Monitoring.ipynb
+
 5_Customer_Influence_Mapping_Graph.ipynb
 
 outputs
